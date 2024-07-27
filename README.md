@@ -15,7 +15,7 @@ LANGUAGES AND TOOLS
 
 <img src="https://github.com/user-attachments/assets/e7a1e2b6-a096-4265-b69b-d5a226cb841c" height="40" width="50"> 
 
-<img src="https://github.com/user-attachments/assets/4a34aa0f-2ad4-458d-a7ae-6b00870a97c9" height="50" width="70">  <img src="https://github.com/user-attachments/assets/a186b857-5463-467c-9c43-9d07fdf4689b" height="50" width="60">
+<img src="https://github.com/user-attachments/assets/4a34aa0f-2ad4-458d-a7ae-6b00870a97c9" height="70" width="90">  <img src="https://github.com/user-attachments/assets/a186b857-5463-467c-9c43-9d07fdf4689b" height="50" width="60">
 
 
 
